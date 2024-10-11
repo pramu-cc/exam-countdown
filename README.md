@@ -15,9 +15,8 @@ A fully responsive and creative countdown website for tracking A/L exam subjects
 
 Check out the [live demo]((https://pramu.cc/exam-count)) on GitHub Pages.
 
-## Installation
-
-To clone and run this project locally, follow these steps:
-
-```bash
+## Tech Stack
+- **HTML5**: Structure of the website.
+- **CSS3**: Styling, animations, glass-morphic effects, and mobile responsiveness.
+- **JavaScript**: Dynamic countdown timer, flip-down animation, and timetable download feature.
 
